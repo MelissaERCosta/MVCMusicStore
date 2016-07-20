@@ -8,6 +8,7 @@ namespace MVCMusicStore
     {
         public void Configuration(IAppBuilder app)
         {
+            /* This is the Startup class */
             ConfigureAuth(app);
         }
     }
