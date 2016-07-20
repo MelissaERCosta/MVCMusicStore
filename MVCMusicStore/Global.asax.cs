@@ -12,6 +12,7 @@ namespace MVCMusicStore
     {
         protected void Application_Start()
         {
+            /* this is the global class */
             AreaRegistration.RegisterAllAreas();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
