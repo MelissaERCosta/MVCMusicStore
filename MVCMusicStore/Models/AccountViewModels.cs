@@ -1,6 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
+
+// Modal describes the data, and how the user is going to interact
 namespace MVCMusicStore.Models
 {
     public class ExternalLoginConfirmationViewModel

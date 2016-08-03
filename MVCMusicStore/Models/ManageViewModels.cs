@@ -3,6 +3,7 @@ using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNet.Identity;
 using Microsoft.Owin.Security;
 
+// Modal describes the data, and how the user is going to interact
 namespace MVCMusicStore.Models
 {
     public class IndexViewModel
