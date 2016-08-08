@@ -1,0 +1,9 @@
+﻿Spend some time on the Getting Started page: Project_Readme.html
+
+Must rebuild project before you create controllers, or after you do anything
+
+What is a model: 
+
+To Find more advanced topics search for "Developing ASP.NET MVC 4 Web Applications Jump Start" in Microsoft Virtual Academy
+
+Return to Model vid 2: start from 40:00

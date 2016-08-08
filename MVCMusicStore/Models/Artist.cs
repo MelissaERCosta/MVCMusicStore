@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Web;
 
@@ -14,4 +15,5 @@ namespace MVCMusicStore.Models
         public virtual List<Album> Albums { get; set; }
 
     }
+
 }

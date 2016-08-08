@@ -1,13 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Web;
 
 namespace MVCMusicStore.Models
 {
-    // Must rebuild project before you create controllers, or after you do anything
-
-    //What is a model: 
     public class Album
     {
         public int AlbumID { get; set; }
